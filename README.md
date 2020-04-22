@@ -1,2 +1,2 @@
-# TCP_UDP_Servers
-[FALTA DOCUMENTACIÓN] Servidores y clientes implementados usando TCP y UDP para la transferencia de archivos y servidor de UDP de streaming implementados en Go y Python
+# FileTransfer
+Cliente y Servidor para la transferencia de archivos usando TCP, escrito en GO para uno de los laboratorios de Infraestructura de Comunicaciones (ISIS 3204)
